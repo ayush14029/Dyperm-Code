@@ -4,7 +4,7 @@ from sklearn.metrics.cluster import adjusted_rand_score
 import operator
 from collections import defaultdict
 import time
-G=nx.Graph()a
+G=nx.Graph()ab
 global comm_list
 comm_list=[]
 
